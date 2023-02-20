@@ -23,7 +23,7 @@ const musicas = [
   },
   {
     nome: 'Beyoncé - Crazy In Love ft. JAY Z',
-    foto: 'https:   //images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6f5e17e1-dd1e-4357-a7e3-a7756cc834d9/d6amjcw-5860fc45-4f27-43d8-9da7-58e4788484ba.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZmNWUxN2UxLWRkMWUtNDM1Ny1hN2UzLWE3NzU2Y2M4MzRkOVwvZDZhbWpjdy01ODYwZmM0NS00ZjI3LTQzZDgtOWRhNy01OGU0Nzg4NDg0YmEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wenvuobUD_NdeI9AKzYXu3QsEB-KYR8NJGaSn0jDrBs',
+    foto: 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6f5e17e1-dd1e-4357-a7e3-a7756cc834d9/d6amjcw-5860fc45-4f27-43d8-9da7-58e4788484ba.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZmNWUxN2UxLWRkMWUtNDM1Ny1hN2UzLWE3NzU2Y2M4MzRkOVwvZDZhbWpjdy01ODYwZmM0NS00ZjI3LTQzZDgtOWRhNy01OGU0Nzg4NDg0YmEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wenvuobUD_NdeI9AKzYXu3QsEB-KYR8NJGaSn0jDrBs',
     musica: musica2,
   },
 ];
